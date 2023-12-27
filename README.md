@@ -10,5 +10,5 @@ The design and implementation of a blockchain- based electronic voting system. O
 
 - [Node.js](https://nodejs.org)
 - [Truffle](https://www.trufflesuite.com/truffle)
-- [Ganache](https://github.com/trufflesuite/ganache-cli) (Cli)
-- [Metamask](https://metamask.io/) (Browser Extension)
+- [Ganache](https://trufflesuite.com/ganache/) 
+- [Metamask](https://metamask.io/) 
