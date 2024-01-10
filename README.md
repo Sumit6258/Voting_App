@@ -2,7 +2,7 @@
 
 The design and implementation of a blockchain- based electronic voting system. Our focus will be on developing a secure and decentralized network of nodes for electronic voting, equipped with cryptographic and non-repudiation mechanisms. This solution aims to provide end-to-end verification while safeguarding the integrity of the voting process.
 
-> This is also my 7th semester Major Project
+> This is also my Final semester Major Project
 
 ## Setting up the development environment
 
